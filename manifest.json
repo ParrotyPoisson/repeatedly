@@ -1,0 +1,13 @@
+{
+  "name": "repeatedly",
+  "version": "0.1.0",
+  "description": "Custom loops of YouTube videos",
+  "background": {
+    "scripts": ["js/repeatedly.js"],
+    "persistent": false
+  },
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "manifest_version": 2
+}
